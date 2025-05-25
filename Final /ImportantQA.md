@@ -158,4 +158,104 @@ In the car industry, safety features (airbags, ABS) are order qualifiers, but fu
 ---
 
 
+Great! Let’s continue with **Question 7 onward**, following the **English + Bangla with real-life example** format.
+
+---
+
+### 7. Interpret the factors that shape the decision-making process regarding the competitive priorities a company should prioritize for its key processes.
+
+**একটি কোম্পানির মূল প্রক্রিয়ার প্রতিযোগিতামূলক অগ্রাধিকারের সিদ্ধান্ত গ্রহণে যেসব বিষয় বিবেচনা করা উচিত, তা ব্যাখ্যা কর।**
+
+**Answer (English):**
+Competitive priorities include cost, quality, time, flexibility, and innovation. Factors that influence a company’s focus on specific priorities include:
+
+1. **Market Analysis** – Customer expectations and competitor strategy.
+2. **Company Strategy** – Mission and long-term goals.
+3. **Resource Availability** – Financial, human, and technological resources.
+4. **Technology & Innovation** – Capability to adapt and improve.
+5. **Industry Dynamics** – Market changes and trends.
+6. **Regulations & Environment** – Legal compliance and sustainability.
+7. **Customer Preferences** – Direct feedback and market research.
+
+**Real-Life Example (English):**
+Amazon prioritizes **speed** and **cost-efficiency** in operations by using automation and a vast delivery network. On the other hand, Tesla focuses on **innovation** and **quality** with electric cars.
+
+---
+
+**উত্তর (বাংলা):**
+প্রতিযোগিতামূলক অগ্রাধিকার হলো ব্যয়, মান, সময়, নমনীয়তা এবং উদ্ভাবন। নিচের বিষয়গুলো একটি কোম্পানির সিদ্ধান্ত গ্রহণে প্রভাব ফেলে:
+
+১. **বাজার বিশ্লেষণ** – গ্রাহকের চাহিদা ও প্রতিযোগীর কৌশল।
+২. **কোম্পানির কৌশল** – প্রতিষ্ঠানের মিশন ও দীর্ঘমেয়াদি লক্ষ্য।
+৩. **উপকরণের প্রাপ্যতা** – অর্থ, জনবল এবং প্রযুক্তি।
+৪. **প্রযুক্তি ও উদ্ভাবন** – দ্রুত পরিবর্তনের সক্ষমতা।
+৫. **শিল্পের গতিশীলতা** – বাজারে পরিবর্তন ও প্রবণতা।
+৬. **নিয়ন্ত্রণ ও পরিবেশগত বিষয়** – আইন মেনে চলা এবং টেকসইতা।
+৭. **গ্রাহকের পছন্দ** – সরাসরি মতামত ও বাজার গবেষণা।
+
+**বাস্তব উদাহরণ (বাংলা):**
+অ্যামাজন তাদের ডেলিভারি প্রক্রিয়া দ্রুত এবং সাশ্রয়ী করতে স্বয়ংক্রিয় প্রযুক্তি ও বড় লজিস্টিক নেটওয়ার্ক ব্যবহার করে। টেসলা নতুন প্রযুক্তি ও গুণমানের উপর জোর দেয়।
+
+---
+
+### 8. What is operations strategy?
+
+**অপারেশন স্ট্রাটেজি কী?**
+
+**Answer (English):**
+Operations strategy defines how the operations function contributes to achieving the company’s goals by managing resources effectively.
+
+**Real-Life Example:**
+McDonald's operations strategy ensures fast service and consistent food quality globally using standardized procedures and supply chains.
+
+---
+
+**উত্তর (বাংলা):**
+অপারেশন স্ট্রাটেজি হলো এমন একটি পরিকল্পনা, যা প্রতিষ্ঠানের অপারেশন কার্যক্রমের মাধ্যমে কিভাবে লক্ষ্য অর্জন করা যায়, তা নির্ধারণ করে।
+
+**বাস্তব উদাহরণ:**
+ম্যাকডোনাল্ডস সারা বিশ্বে একই মানের খাবার এবং দ্রুত সেবা প্রদানে তাদের অপারেশন স্ট্রাটেজি ব্যবহার করে।
+
+---
+
+### 9. Describe the factors that can affect productivity.
+
+**প্রোডাক্টিভিটির উপর যেসব বিষয় প্রভাব ফেলে তা ব্যাখ্যা কর।**
+
+**Answer (English):**
+Key factors affecting productivity include:
+
+1. **Technical** – Equipment, automation.
+2. **Production** – Raw materials, coordination.
+3. **Organizational** – Structure, responsibilities.
+4. **Personnel** – Training, motivation.
+5. **Finance** – Investment and cost control.
+6. **Management** – Leadership quality.
+7. **Government** – Policies, taxes.
+8. **Location** – Infrastructure and accessibility.
+
+**Real-Life Example:**
+Toyota uses lean manufacturing and well-trained employees to ensure high productivity and low waste in its production process.
+
+---
+
+**উত্তর (বাংলা):**
+প্রোডাক্টিভিটি (উৎপাদনশীলতা) যেসব বিষয়ে নির্ভর করে:
+
+১. **প্রযুক্তিগত** – যন্ত্রপাতি, অটোমেশন।
+২. **উৎপাদনজনিত** – কাঁচামাল ও সমন্বয়।
+৩. **সংগঠনগত** – গঠন ও দায়িত্ব বণ্টন।
+৪. **মানবসম্পদ** – প্রশিক্ষণ, অনুপ্রেরণা।
+৫. **আর্থিক** – বিনিয়োগ ও ব্যয় নিয়ন্ত্রণ।
+৬. **ম্যানেজমেন্ট** – নেতৃত্বের দক্ষতা।
+৭. **সরকারি** – নীতিমালা ও কর।
+৮. **অবস্থান** – পরিবহন ও বাজারের কাছাকাছি।
+
+**বাস্তব উদাহরণ:**
+টয়োটা ‘লিন ম্যানুফ্যাকচারিং’ পদ্ধতি ব্যবহার করে অপ্রয়োজনীয় ব্যয় কমিয়ে উৎপাদনশীলতা বাড়ায়।
+
+---
+
+
+
 

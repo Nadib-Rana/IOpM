@@ -460,6 +460,136 @@ A call center (front office) directly interacts with customers, while payroll pr
 ➤ *উদাহরণ: বোতলজাত পানি, টি-শার্ট উৎপাদন*
 
 ---
+Perfect! Let’s continue with **Questions 16 to 18** in the **English + Bangla format with real-life examples**.
+
+---
+
+### 16. Compare and contrast between Expansionist Strategy and Wait-and-See Strategy along with real-life examples.
+
+**Expansionist Strategy ও Wait-and-See Strategy-এর তুলনামূলক আলোচনা কর বাস্তব উদাহরণসহ।**
+
+**Answer (English):**
+
+| Strategy           | Expansionist                     | Wait-and-See                     |
+| ------------------ | -------------------------------- | -------------------------------- |
+| **Approach**       | Adds capacity in advance         | Adds capacity when demand rises  |
+| **Risk**           | Higher risk, aggressive          | Lower risk, conservative         |
+| **Customer Focus** | Prevents shortages               | Responds after confirming demand |
+| **Cost**           | Benefits from economies of scale | Lower investment initially       |
+
+**Real-Life Example:**
+
+* **Expansionist:** Amazon builds warehouses in advance of demand during holiday seasons.
+* **Wait-and-See:** A local boutique increases staff only after sales consistently grow.
+
+---
+
+**উত্তর (বাংলা):**
+
+| কৌশল              | Expansionist Strategy          | Wait-and-See Strategy               |
+| ----------------- | ------------------------------ | ----------------------------------- |
+| **পদ্ধতি**        | আগেই ক্যাপাসিটি বাড়ানো হয়     | চাহিদা বাড়লে ক্যাপাসিটি বাড়ানো হয় |
+| **ঝুঁকি**         | বেশি ঝুঁকিপূর্ণ, আক্রমণাত্মক   | কম ঝুঁকিপূর্ণ, রক্ষণশীল             |
+| **গ্রাহক দৃষ্টি** | আগেভাগে চাহিদা পূরণ করে        | বাস্তব চাহিদা দেখে ব্যবস্থা নেয়     |
+| **ব্যয়**         | বড় পরিমাণ উৎপাদনে খরচ কমে যায় | শুরুতে খরচ কম                       |
+
+**বাস্তব উদাহরণ:**
+
+* **Expansionist:** অ্যামাজন ছুটির আগেই নতুন গুদাম বানায়।
+* **Wait-and-See:** একটি ছোট দোকান বিক্রি বাড়ার পর নতুন কর্মী নিয়োগ করে।
+
+---
+
+### 17. What are the different types of inventories used in operations management?
+
+**অপারেশন ম্যানেজমেন্টে ব্যবহৃত বিভিন্ন ধরনের ইনভেন্টরি কী কী?**
+
+**Answer (English):**
+
+**Accounting Inventories:**
+
+1. **Raw Materials (RM)** – Inputs for production
+2. **Work-in-Process (WIP)** – Semi-finished goods
+3. **Finished Goods (FG)** – Ready for sale
+
+**Operational Inventories:**
+
+1. **Cycle Inventory** – Based on lot size
+2. **Safety Stock** – Extra stock for uncertainty
+3. **Anticipation Inventory** – For seasonal demand
+4. **Pipeline Inventory** – In-transit goods
+
+**Real-Life Example:**
+A clothing store may hold **finished goods** in stock, **safety stock** for rush sales, and **pipeline inventory** for in-transit shipments.
+
+---
+
+**উত্তর (বাংলা):**
+
+**অ্যাকাউন্টিং ইনভেন্টরি:**
+
+১. **র-মেটেরিয়ালস (RM)** – উৎপাদনের জন্য কাঁচামাল
+২. **ওয়ার্ক-ইন-প্রসেস (WIP)** – অর্ধ-সম্পন্ন পণ্য
+৩. **ফিনিশড গুডস (FG)** – বাজারে বিক্রির জন্য প্রস্তুত পণ্য
+
+**অপারেশনাল ইনভেন্টরি:**
+
+১. **সাইকেল ইনভেন্টরি** – লট সাইজের উপর ভিত্তি করে
+২. **সেফটি স্টক** – অনিশ্চয়তার জন্য অতিরিক্ত মজুদ
+৩. **অ্যান্টিসিপেশন ইনভেন্টরি** – মৌসুমি চাহিদার জন্য
+৪. **পাইপলাইন ইনভেন্টরি** – পথে থাকা পণ্য
+
+**বাস্তব উদাহরণ:**
+একটি পোশাকের দোকান ফিনিশড গুডস রাখে, সেফটি স্টক রাখে হঠাৎ চাহিদার জন্য, আর পাইপলাইনে থাকে কারখানা থেকে আসা পোশাক।
+
+---
+
+### 18. Examine the various factors that create the pressures for high or low inventory.
+
+**উচ্চ বা নিম্ন ইনভেন্টরির জন্য যে সব বিষয় চাপ সৃষ্টি করে, তা বিশ্লেষণ কর।**
+
+**Answer (English):**
+
+**Pressures for Low Inventory:**
+
+* High holding costs (storage, insurance)
+* Risk of obsolescence
+* Capital tied up in stock
+
+**Pressures for High Inventory:**
+
+* Better customer service (avoid stockouts)
+* Lower ordering/setup costs
+* Quantity discounts
+* Reduced transportation cost per unit
+
+**Real-Life Example:**
+IKEA maintains **high inventory** to ensure availability but uses efficient storage to reduce holding costs.
+
+---
+
+**উত্তর (বাংলা):**
+
+**কম ইনভেন্টরির চাপ সৃষ্টি করে:**
+
+* বেশি স্টোরেজ খরচ (ভাড়া, ইনস্যুরেন্স)
+* পণ্যের পুরনো হয়ে যাওয়ার ঝুঁকি
+* মূলধন আটকে থাকা
+
+**বেশি ইনভেন্টরির চাপ সৃষ্টি করে:**
+
+* গ্রাহক সেবার উন্নতি (স্টক আউট না হওয়া)
+* কম অর্ডারিং বা সেটআপ খরচ
+* পরিমাণ অনুযায়ী ছাড়
+* ইউনিট প্রতি পরিবহন খরচ কমানো
+
+**বাস্তব উদাহরণ:**
+IKEA স্টকে বেশি পণ্য রাখে যেন সবসময় পাওয়া যায়, তবে স্মার্ট স্টোরেজ ব্যবস্থায় খরচ নিয়ন্ত্রণে রাখে।
+
+---
+
+
+
 
 ### 15. What is capacity cushion?
 
@@ -483,5 +613,361 @@ A hospital may keep 10% of its beds unoccupied as a cushion for emergency cases.
 
 
 
+
+Perfect! Let’s continue with **Questions 16 to 18** in the **English + Bangla format with real-life examples**.
+
+---
+
+### 16. Compare and contrast between Expansionist Strategy and Wait-and-See Strategy along with real-life examples.
+
+**Expansionist Strategy ও Wait-and-See Strategy-এর তুলনামূলক আলোচনা কর বাস্তব উদাহরণসহ।**
+
+**Answer (English):**
+
+| Strategy           | Expansionist                     | Wait-and-See                     |
+| ------------------ | -------------------------------- | -------------------------------- |
+| **Approach**       | Adds capacity in advance         | Adds capacity when demand rises  |
+| **Risk**           | Higher risk, aggressive          | Lower risk, conservative         |
+| **Customer Focus** | Prevents shortages               | Responds after confirming demand |
+| **Cost**           | Benefits from economies of scale | Lower investment initially       |
+
+**Real-Life Example:**
+
+* **Expansionist:** Amazon builds warehouses in advance of demand during holiday seasons.
+* **Wait-and-See:** A local boutique increases staff only after sales consistently grow.
+
+---
+
+**উত্তর (বাংলা):**
+
+| কৌশল              | Expansionist Strategy          | Wait-and-See Strategy               |
+| ----------------- | ------------------------------ | ----------------------------------- |
+| **পদ্ধতি**        | আগেই ক্যাপাসিটি বাড়ানো হয়     | চাহিদা বাড়লে ক্যাপাসিটি বাড়ানো হয় |
+| **ঝুঁকি**         | বেশি ঝুঁকিপূর্ণ, আক্রমণাত্মক   | কম ঝুঁকিপূর্ণ, রক্ষণশীল             |
+| **গ্রাহক দৃষ্টি** | আগেভাগে চাহিদা পূরণ করে        | বাস্তব চাহিদা দেখে ব্যবস্থা নেয়     |
+| **ব্যয়**         | বড় পরিমাণ উৎপাদনে খরচ কমে যায় | শুরুতে খরচ কম                       |
+
+**বাস্তব উদাহরণ:**
+
+* **Expansionist:** অ্যামাজন ছুটির আগেই নতুন গুদাম বানায়।
+* **Wait-and-See:** একটি ছোট দোকান বিক্রি বাড়ার পর নতুন কর্মী নিয়োগ করে।
+
+---
+
+### 17. What are the different types of inventories used in operations management?
+
+**অপারেশন ম্যানেজমেন্টে ব্যবহৃত বিভিন্ন ধরনের ইনভেন্টরি কী কী?**
+
+**Answer (English):**
+
+**Accounting Inventories:**
+
+1. **Raw Materials (RM)** – Inputs for production
+2. **Work-in-Process (WIP)** – Semi-finished goods
+3. **Finished Goods (FG)** – Ready for sale
+
+**Operational Inventories:**
+
+1. **Cycle Inventory** – Based on lot size
+2. **Safety Stock** – Extra stock for uncertainty
+3. **Anticipation Inventory** – For seasonal demand
+4. **Pipeline Inventory** – In-transit goods
+
+**Real-Life Example:**
+A clothing store may hold **finished goods** in stock, **safety stock** for rush sales, and **pipeline inventory** for in-transit shipments.
+
+---
+
+**উত্তর (বাংলা):**
+
+**অ্যাকাউন্টিং ইনভেন্টরি:**
+
+১. **র-মেটেরিয়ালস (RM)** – উৎপাদনের জন্য কাঁচামাল
+২. **ওয়ার্ক-ইন-প্রসেস (WIP)** – অর্ধ-সম্পন্ন পণ্য
+৩. **ফিনিশড গুডস (FG)** – বাজারে বিক্রির জন্য প্রস্তুত পণ্য
+
+**অপারেশনাল ইনভেন্টরি:**
+
+১. **সাইকেল ইনভেন্টরি** – লট সাইজের উপর ভিত্তি করে
+২. **সেফটি স্টক** – অনিশ্চয়তার জন্য অতিরিক্ত মজুদ
+৩. **অ্যান্টিসিপেশন ইনভেন্টরি** – মৌসুমি চাহিদার জন্য
+৪. **পাইপলাইন ইনভেন্টরি** – পথে থাকা পণ্য
+
+**বাস্তব উদাহরণ:**
+একটি পোশাকের দোকান ফিনিশড গুডস রাখে, সেফটি স্টক রাখে হঠাৎ চাহিদার জন্য, আর পাইপলাইনে থাকে কারখানা থেকে আসা পোশাক।
+
+---
+
+### 18. Examine the various factors that create the pressures for high or low inventory.
+
+**উচ্চ বা নিম্ন ইনভেন্টরির জন্য যে সব বিষয় চাপ সৃষ্টি করে, তা বিশ্লেষণ কর।**
+
+**Answer (English):**
+
+**Pressures for Low Inventory:**
+
+* High holding costs (storage, insurance)
+* Risk of obsolescence
+* Capital tied up in stock
+
+**Pressures for High Inventory:**
+
+* Better customer service (avoid stockouts)
+* Lower ordering/setup costs
+* Quantity discounts
+* Reduced transportation cost per unit
+
+**Real-Life Example:**
+IKEA maintains **high inventory** to ensure availability but uses efficient storage to reduce holding costs.
+
+---
+
+**উত্তর (বাংলা):**
+
+**কম ইনভেন্টরির চাপ সৃষ্টি করে:**
+
+* বেশি স্টোরেজ খরচ (ভাড়া, ইনস্যুরেন্স)
+* পণ্যের পুরনো হয়ে যাওয়ার ঝুঁকি
+* মূলধন আটকে থাকা
+
+**বেশি ইনভেন্টরির চাপ সৃষ্টি করে:**
+
+* গ্রাহক সেবার উন্নতি (স্টক আউট না হওয়া)
+* কম অর্ডারিং বা সেটআপ খরচ
+* পরিমাণ অনুযায়ী ছাড়
+* ইউনিট প্রতি পরিবহন খরচ কমানো
+
+**বাস্তব উদাহরণ:**
+IKEA স্টকে বেশি পণ্য রাখে যেন সবসময় পাওয়া যায়, তবে স্মার্ট স্টোরেজ ব্যবস্থায় খরচ নিয়ন্ত্রণে রাখে।
+
+---
+
+
+Perfect! Let’s now proceed with **Questions 19 to 21** in the **English + Bangla format with real-life examples**:
+
+---
+
+### 19. What are the major assumptions of the EOQ model?
+
+**EOQ মডেলের প্রধান অনুমানগুলো কী কী?**
+
+**Answer (English):**
+The Economic Order Quantity (EOQ) model is based on these assumptions:
+
+1. Only one product is involved
+2. Annual demand is known and constant
+3. Demand is evenly spread throughout the year
+4. Lead time is consistent
+5. Orders are delivered in full all at once
+6. No quantity discounts are applied
+
+**Real-Life Example:**
+A bookstore uses the EOQ model to restock notebooks assuming consistent sales every month and no bulk discount.
+
+---
+
+**উত্তর (বাংলা):**
+ইকোনমিক অর্ডার কোয়ান্টিটি (EOQ) মডেলের মূল অনুমানসমূহ হলো:
+
+১. একটি মাত্র পণ্যের কথা বিবেচনা করা হয়
+২. বার্ষিক চাহিদা পূর্বনির্ধারিত এবং অপরিবর্তনীয়
+৩. চাহিদা বছরে সমানভাবে বিভক্ত
+৪. লিড টাইম সবসময় এক
+৫. অর্ডার একবারে সম্পূর্ণ সরবরাহ করা হয়
+৬. কোনও পরিমাণ ছাড় (Quantity Discount) নেই
+
+**বাস্তব উদাহরণ:**
+একটি বইয়ের দোকান প্রতি মাসে নির্দিষ্ট হারে খাতার চাহিদা অনুযায়ী EOQ মডেল ব্যবহার করে স্টক পূরণ করে।
+
+---
+
+### 20. What are some ways in which a company can reduce the need for inventories?
+
+**একটি প্রতিষ্ঠান কীভাবে ইনভেন্টরির প্রয়োজন কমাতে পারে তা উল্লেখ কর।**
+
+**Answer (English):**
+
+* Use **Just-in-Time (JIT)** inventory management
+* Improve **demand forecasting**
+* Strengthen **supplier relationships**
+* Shorten **production cycles**
+* Adopt **lean manufacturing** principles
+* Reduce **setup and ordering time**
+
+**Real-Life Example:**
+Dell uses JIT to assemble laptops only after customer orders, reducing inventory storage costs.
+
+---
+
+**উত্তর (বাংলা):**
+
+* **জাস্ট-ইন-টাইম (JIT)** ইনভেন্টরি ব্যবস্থাপনা ব্যবহার করা
+* **চাহিদা পূর্বাভাস** উন্নত করা
+* **সরবরাহকারীর সাথে সম্পর্ক** দৃঢ় করা
+* **উৎপাদন চক্র** ছোট করা
+* **লিন ম্যানুফ্যাকচারিং** নীতি গ্রহণ করা
+* **অর্ডার ও সেটআপ টাইম** কমানো
+
+**বাস্তব উদাহরণ:**
+ডেল কোম্পানি JIT পদ্ধতিতে গ্রাহকের অর্ডার পাওয়ার পর ল্যাপটপ তৈরি করে, ফলে স্টোরেজ খরচ অনেক কমে যায়।
+
+---
+
+### 21. Explain the primary reasons for holding inventory.
+
+**ইনভেন্টরি রাখার প্রধান কারণগুলো ব্যাখ্যা কর।**
+
+**Answer (English):**
+
+1. **Customer Service** – Avoid stockouts
+2. **Ordering Cost** – Reduce frequent ordering
+3. **Setup Cost** – Reduce machine changeover frequency
+4. **Labor and Equipment Utilization** – Smooth operations
+5. **Transportation Cost** – Lower cost per unit
+6. **Quantity Discount** – Benefit from bulk pricing
+
+**Real-Life Example:**
+A grocery store keeps large stocks of essentials like rice and oil to meet regular customer demand and avoid frequent reordering.
+
+---
+
+**উত্তর (বাংলা):**
+
+১. **গ্রাহক সেবা** – স্টক শেষ হওয়া রোধ করা
+২. **অর্ডার খরচ** – বারবার অর্ডার দেওয়ার প্রয়োজন কমানো
+৩. **সেটআপ খরচ** – যন্ত্র পরিবর্তনের সংখ্যা কমানো
+৪. **শ্রম ও যন্ত্রপাতির ব্যবহার** – কার্যক্রম সুষ্ঠুভাবে চালানো
+৫. **পরিবহন খরচ** – ইউনিট প্রতি খরচ কমানো
+৬. **পরিমাণ ছাড়** – বড় অর্ডারে ডিসকাউন্ট পাওয়া
+
+**বাস্তব উদাহরণ:**
+একটি মুদি দোকান চাল ও তেলের মতো পণ্য মজুত রাখে যাতে ক্রমাগত চাহিদা পূরণ করতে পারে এবং বারবার অর্ডার করতে না হয়।
+
+---
+
+
+Awesome! Let’s continue with **Questions 22 to 24** in the same **English + Bangla format** with **real-life examples**.
+
+---
+
+### 22. What are the key factors that each organization should consider in locating a new facility?
+
+**নতুন একটি সুবিধা (facility) স্থাপনের ক্ষেত্রে প্রতিটি প্রতিষ্ঠানের বিবেচ্য প্রধান বিষয়গুলো কী কী?**
+
+**Answer (English):**
+
+1. **Favorable Labor Climate** – Availability of skilled, affordable workers
+2. **Proximity to Markets** – Nearness to customers
+3. **Environmental Impact** – Sustainability and legal compliance
+4. **Quality of Life** – For attracting/retaining employees
+5. **Proximity to Suppliers** – Reduce inbound transportation cost
+6. **Proximity to Existing Facilities** – Coordination with parent plants
+7. **Utilities, Taxes & Real Estate Costs** – Operational and overhead cost
+8. **Other Factors** – Expansion space, transport access, regulations
+
+**Real-Life Example:**
+Unilever chose to open a factory near Dhaka due to access to a skilled workforce, lower transportation costs, and proximity to its target market.
+
+---
+
+**উত্তর (বাংলা):**
+
+১. **অনুকূল শ্রম পরিবেশ** – দক্ষ ও সাশ্রয়ী শ্রমিকদের সহজলভ্যতা
+২. **বাজারের কাছাকাছি অবস্থান** – গ্রাহকদের নিকটে অবস্থান
+৩. **পরিবেশগত প্রভাব** – পরিবেশ রক্ষা ও আইন অনুসরণ
+৪. **জীবনমানের গুণমান** – কর্মী আকর্ষণ ও ধরে রাখার জন্য
+৫. **সরবরাহকারীর কাছাকাছি** – ইনবাউন্ড পরিবহন খরচ কমানো
+৬. **বিদ্যমান প্রতিষ্ঠানের নিকটে** – সমন্বয় সহজ হয়
+৭. **ইউটিলিটি, ট্যাক্স ও জমির খরচ** – পরিচালনা খরচ ও অতিরিক্ত খরচ
+৮. **অন্যান্য বিষয়** – সম্প্রসারণের জায়গা, পরিবহন ব্যবস্থা, স্থানীয় আইন
+
+**বাস্তব উদাহরণ:**
+ইউনিলিভার ঢাকার নিকটবর্তী অঞ্চলে কারখানা স্থাপন করেছে কারণ এখানে দক্ষ শ্রমিক আছে, পরিবহন খরচ কম এবং বাজার কাছে।
+
+---
+
+### 23. What is the EOQ formula and how is it derived?
+
+**EOQ সূত্র কী এবং এটি কীভাবে নির্ণয় করা হয়?**
+
+**Answer (English):**
+
+**EOQ (Economic Order Quantity) Formula:**
+
+$$
+EOQ = \sqrt{\frac{2DS}{H}}
+$$
+
+Where:
+
+* D = Annual demand
+* S = Ordering cost per order
+* H = Holding cost per unit per year
+
+**It balances ordering and holding costs to minimize total inventory cost.**
+
+**Real-Life Example:**
+A mobile shop sells 5,000 phone covers yearly. If ordering cost is \$100 and holding cost per unit is \$5, EOQ = √(2×5000×100 ÷ 5) = 141 units.
+
+---
+
+**উত্তর (বাংলা):**
+
+**EOQ (Economic Order Quantity) সূত্র:**
+
+$$
+EOQ = \sqrt{\frac{2DS}{H}}
+$$
+
+যেখানে,
+
+* D = বার্ষিক চাহিদা
+* S = প্রতি অর্ডারে অর্ডার খরচ
+* H = প্রতি ইউনিট বার্ষিক ধারণ খরচ
+
+**এই সূত্রটি অর্ডার খরচ ও ধারণ খরচের ভারসাম্য রক্ষা করে মোট ইনভেন্টরি খরচ কমায়।**
+
+**বাস্তব উদাহরণ:**
+একটি মোবাইল শপ বছরে ৫,০০০টি কভার বিক্রি করে। যদি প্রতি অর্ডার খরচ হয় ১০০ টাকা এবং প্রতি ইউনিট ধারণ খরচ হয় ৫ টাকা, তাহলে EOQ = √(2×5000×100 ÷ 5) = ১৪১ ইউনিট।
+
+---
+
+### 24. How does the Just-in-Time (JIT) inventory system work and what are its advantages?
+
+**Just-in-Time (JIT) ইনভেন্টরি সিস্টেম কীভাবে কাজ করে এবং এর উপকারিতা কী কী?**
+
+**Answer (English):**
+
+**JIT** ensures that inventory arrives **exactly when needed**, reducing storage costs.
+
+**Advantages:**
+
+* Lower inventory holding costs
+* Reduced waste
+* Better quality control
+* Improved cash flow
+* Faster response to customer demand
+
+**Real-Life Example:**
+Toyota pioneered the JIT model, reducing excess parts storage and only producing vehicles based on actual customer orders.
+
+---
+
+**উত্তর (বাংলা):**
+
+**JIT (Just-in-Time)** এমন একটি পদ্ধতি যেখানে ইনভেন্টরি তখনই আসে যখন তা দরকার, ফলে স্টোরেজ খরচ কমে।
+
+**উপকারিতা:**
+
+* ইনভেন্টরি ধারণ খরচ কম
+* অপচয় কমে
+* গুণমান নিয়ন্ত্রণ ভালো হয়
+* ক্যাশ ফ্লো উন্নত হয়
+* গ্রাহকের চাহিদার দ্রুত প্রতিক্রিয়া
+
+**বাস্তব উদাহরণ:**
+টয়োটা JIT ব্যবস্থার পথিকৃৎ, যেখানে শুধুমাত্র গ্রাহকের চাহিদা অনুযায়ী গাড়ি তৈরি হয় এবং অতিরিক্ত যন্ত্রাংশ সংরক্ষণ করা হয় না।
+
+---
 
 
